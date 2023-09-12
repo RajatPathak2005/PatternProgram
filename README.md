@@ -66,7 +66,6 @@ git config --global user.email "youremail@example.com"
 ### Contributer Name:
 
 
-
 <div align="center">
     <h3>Happy coding 🙂</h3>
 </div>
